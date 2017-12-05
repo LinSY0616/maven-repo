@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.LinSY.www.springMVC</groupId>
+  <artifactId>shopping</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160807024236</lastUpdated>
+  </versioning>
+</metadata>

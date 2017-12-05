@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 26 16:38:50 CST 2016
+default-http\://repo1.maven.org/maven2/.lastUpdated=1468378212538
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-core\:jar\:4.1.10.Final from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000
+https\://repo.maven.apache.org/maven2/.lastUpdated=1469522330571

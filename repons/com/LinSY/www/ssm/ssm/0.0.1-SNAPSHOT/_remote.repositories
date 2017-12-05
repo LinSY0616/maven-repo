@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Aug 06 15:27:08 CST 2016
+ssm-0.0.1-SNAPSHOT-exec-war.jar>=
+ssm-0.0.1-SNAPSHOT.pom>=
+ssm-0.0.1-SNAPSHOT.war>=

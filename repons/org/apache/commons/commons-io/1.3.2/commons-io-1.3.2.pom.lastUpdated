@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Nov 12 21:12:23 CST 2017
+default-http\://repo1.maven.org/maven2/.lastUpdated=1468407232662
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.apache.commons\:commons-io\:pom\:1.3.2 from/to central (http\://repo1.maven.org/maven2)\: Failed to create a selector.
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1510492343791

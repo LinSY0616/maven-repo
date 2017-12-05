@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jul 13 10:18:18 CST 2016
+default-http\://repo1.maven.org/maven2/.lastUpdated=1468376295754
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.jboss.weld\:weld-parent\:pom\:21 from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1468376298765

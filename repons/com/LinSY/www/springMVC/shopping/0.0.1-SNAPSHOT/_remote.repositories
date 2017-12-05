@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Aug 07 10:42:36 CST 2016
+shopping-0.0.1-SNAPSHOT-exec-war.jar>=
+shopping-0.0.1-SNAPSHOT.pom>=
+shopping-0.0.1-SNAPSHOT.war>=

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Aug 06 16:23:44 CST 2016
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1470471824945
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven\:maven-settings-builder\:jar\:sources\:3.2.1 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

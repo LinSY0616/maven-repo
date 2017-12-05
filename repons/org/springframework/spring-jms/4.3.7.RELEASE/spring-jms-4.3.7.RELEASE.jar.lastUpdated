@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue May 02 16:37:13 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1493197649587
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1493714233838
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-jms\:jar\:4.3.7.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

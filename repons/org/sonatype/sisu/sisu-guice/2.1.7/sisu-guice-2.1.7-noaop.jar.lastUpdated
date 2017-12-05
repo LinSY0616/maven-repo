@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 29 17:24:07 CST 2017
+default-http\://repo1.maven.org/maven2/.lastUpdated=1468391721088
+http\://repo.maven.apache.org/maven2/.lastUpdated=1468459720121
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.sonatype.sisu\:sisu-guice\:jar\:noaop\:2.1.7 from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1468397634511
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1496049847788
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.sonatype.sisu\:sisu-guice\:jar\:noaop\:2.1.7 from/to central (https\://repo.maven.apache.org/maven2)\: Software caused connection abort\: recv failed

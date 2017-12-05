@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 05 14:30:10 CST 2017
+maven-common-artifact-filters-1.4.jar>alimaven=
+maven-common-artifact-filters-1.4.jar>central=
+maven-common-artifact-filters-1.4.pom>alimaven=
+maven-common-artifact-filters-1.4.pom>central=
